@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hanwen/usb"
+	"github.com/kaepa3/usb"
 )
 
 // An MTP device.

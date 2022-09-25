@@ -14,8 +14,8 @@ import (
 
 	fusefs "github.com/hanwen/go-fuse/v2/fs"
 	"github.com/hanwen/go-fuse/v2/fuse"
-	"github.com/hanwen/go-mtpfs/fs"
-	"github.com/hanwen/go-mtpfs/mtp"
+	"github.com/kaepa3/go-mtpfs/fs"
+	"github.com/kaepa3/go-mtpfs/mtp"
 )
 
 func main() {
